@@ -16,7 +16,7 @@ Researched answer: Object Oriented Programming are classes and objects. It is st
 
 Your answer:In Red Robin Ruby a Float and Integer are similar in the aspects of them both being numerical data and where they differ is Float will produce a decimal value and an Integer will give a a whole value with NO decimals.
 
-Researched answer:
+Researched answer:A float is a number or a representation number for irrationial numbers and creates a decimal point. The inter is the opposit of float and does not have a fractional part and is a whole number.
 
 1. Ruby has an implicit return. What does that mean?
 
